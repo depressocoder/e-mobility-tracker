@@ -1,0 +1,44 @@
+{
+    "dennis": {
+        "miles": 120.0,
+        "co2_saved": 24.0,
+        "badges": [
+            "Green Thumb"
+        ]
+    },
+    "Dennis": {
+        "miles": 80.0,
+        "co2_saved": 16.0,
+        "badges": [
+            "Green Thumb"
+        ]
+    },
+    "John Doe": {
+        "miles": 120.0,
+        "co2_saved": 24.0,
+        "badges": [
+            "Green Thumb"
+        ]
+    },
+    "Johm": {
+        "miles": 120.0,
+        "co2_saved": 24.0,
+        "badges": [
+            "Green Thumb"
+        ]
+    },
+    "Eco": {
+        "miles": 180.0,
+        "co2_saved": 36.0,
+        "badges": [
+            "Sustainable Adventurer"
+        ]
+    },
+    "EcoFriendly": {
+        "miles": 150.0,
+        "co2_saved": 30.0,
+        "badges": [
+            "Sustainable Adventurer"
+        ]
+    }
+}
